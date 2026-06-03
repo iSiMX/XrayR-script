@@ -20,3 +20,10 @@ OR
 ```
 wget -N https://raw.githubusercontent.com/XrayRR/XrayR-script/master/install.sh && bash install.sh
 ```
+
+# 一 Upload V0.9.0 To Root Ubuntu
+```
+rm -fr /usr/local/XrayR/XrayR
+mv XrayR /usr/local/XrayR/
+chmod +x /usr/local/XrayR/XrayR
+```

@@ -1,11 +1,11 @@
-# XRayR
+# 一XRayR
 A Xray backend framework that can easily support many panels.
 
-一"An Xray-based backend framework supporting V2ray, Trojan, and Shadowsocks protocols. It is highly extensible and supports multi-panel integration."
+一An Xray-based backend framework supporting V2ray, Trojan, and Shadowsocks protocols. It is highly extensible and supports multi-panel integration.
 
 Find the source code here: [XrayRR/XrayR](https://github.com/iSiMX/XrayR)
 
-"If you are not sure about the script, you can test it in this sandbox before using it." ：https://killercoda.com/playgrounds/scenario/ubuntu
+If you are not sure about the script, you can test it in this sandbox before using it. ：https://killercoda.com/playgrounds/scenario/ubuntu
 
 一一一一一一一一一一一一
 # GitBook

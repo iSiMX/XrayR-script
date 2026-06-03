@@ -27,6 +27,9 @@ wget -N https://raw.githubusercontent.com/iSiMX/XrayR-script/master/install.sh &
 # 一 Upload V0.9.0 To Root Ubuntu
 
 ```
+apt install wget unzip -y
+wget https://github.com/iSiMX/XrayR-script/releases/download/V0.9.0/XrayR.zip
+unzip XrayR.zip
 rm -fr /usr/local/XrayR/XrayR
 mv XrayR /usr/local/XrayR/
 chmod +x /usr/local/XrayR/XrayR

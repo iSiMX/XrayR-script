@@ -1,27 +1,31 @@
 # XRayR
 A Xray backend framework that can easily support many panels.
 
-一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+一"An Xray-based backend framework supporting V2ray, Trojan, and Shadowsocks protocols. It is highly extensible and supports multi-panel integration."
 
-Find the source code here: [XrayRR/XrayR](https://github.com/XrayRR/XrayR)
+Find the source code here: [XrayRR/XrayR](https://github.com/iSiMX/XrayR)
 
-如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
+"If you are not sure about the script, you can test it in this sandbox before using it." ：https://killercoda.com/playgrounds/scenario/ubuntu
 
-# 详细使用教程
+一一一一一一一一一一一一
+# GitBook
 
-[教程](https://xrayrr.gitbook.io/xrayr-doc/)
+[Help](https://xrayrr.gitbook.io/xrayr-doc/)
 
-# 一键安装
+一一一一一一一一一一一一
+# 一Installer
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/XrayRR/XrayR-script/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/iSiMX/XrayR-script/master/install.sh)
 ```
 OR
 ```
-wget -N https://raw.githubusercontent.com/XrayRR/XrayR-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/iSiMX/XrayR-script/master/install.sh && bash install.sh
 ```
 
+一一一一一一一一一一一一
 # 一 Upload V0.9.0 To Root Ubuntu
+
 ```
 rm -fr /usr/local/XrayR/XrayR
 mv XrayR /usr/local/XrayR/
